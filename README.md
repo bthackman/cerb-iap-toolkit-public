@@ -85,4 +85,6 @@ This is an independent, unofficial tool. It drafts documents; it doesn't submit,
 your supervising architect's review. Always check the current IAP Manual and your provincial
 regulator's requirements.
 
-MIT licensed. See [LICENSE](LICENSE).
+Code and docs are MIT licensed (see [LICENSE](LICENSE)). The CERB form, the IAP Manual and RAIC
+Syllabus materials belong to their publishers and are not covered by that license; category
+descriptions in `skills/` are summarized from the IAP Manual for reference only.
