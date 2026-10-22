@@ -1,0 +1,73 @@
+[
+  {
+    "id": "recEXAMPLE0000001",
+    "createdTime": "2026-12-15T16:00:00.000Z",
+    "fields": {
+      "Project Name": "Community Library Renovation",
+      "Location": "Maple Falls, ON",
+      "Project Type": "Renovation / Alteration",
+      "Occupancy": "Assembly",
+      "Gross Floor Area": "18,000 sf",
+      "Budget": "$6.5M",
+      "Number of Storeys": 2
+    }
+  },
+  {
+    "id": "recEXAMPLE0000002",
+    "createdTime": "2026-12-15T16:00:00.000Z",
+    "fields": {
+      "Project Name": "Riverside Clinic",
+      "Location": "Riverside, ON",
+      "Project Type": "New Construction",
+      "Occupancy": "Business and Personal Services",
+      "Gross Floor Area": "9,500 sf",
+      "Budget": "$4.2M",
+      "Number of Storeys": 1
+    }
+  },
+  {
+    "id": "recEXAMPLE0000003",
+    "createdTime": "2026-12-15T16:00:00.000Z",
+    "fields": {
+      "Project Name": "Lakeview Townhomes",
+      "Location": "Lakeview, ON",
+      "Project Type": "New Construction",
+      "Occupancy": "Residential",
+      "Gross Floor Area": "32,000 sf",
+      "Budget": "n/a",
+      "Number of Storeys": 3
+    }
+  },
+  {
+    "id": "recEXAMPLE0000004",
+    "createdTime": "2026-12-15T16:00:00.000Z",
+    "fields": {
+      "Project Name": "VACATION",
+      "Non-Project / Internal": true
+    }
+  },
+  {
+    "id": "recEXAMPLE0000005",
+    "createdTime": "2026-12-15T16:00:00.000Z",
+    "fields": {
+      "Project Name": "ADMIN",
+      "Non-Project / Internal": true
+    }
+  },
+  {
+    "id": "recEXAMPLE0000006",
+    "createdTime": "2026-12-15T16:00:00.000Z",
+    "fields": {
+      "Project Name": "TEAM MEETING",
+      "Non-Project / Internal": true
+    }
+  },
+  {
+    "id": "recEXAMPLE0000007",
+    "createdTime": "2026-12-15T16:00:00.000Z",
+    "fields": {
+      "Project Name": "TRAINING / EVENT",
+      "Non-Project / Internal": true
+    }
+  }
+]

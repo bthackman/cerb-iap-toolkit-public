@@ -1,0 +1,204 @@
+{
+  "title": "Project Descriptions — Role of Intern",
+  "subtitle": "Alex Example  |  Experience period January 1, 2027 – February 19, 2027  |  Attachment to the CERB Experience Summary Form",
+  "note": "DRAFT — fictional example generated from examples/raw_records.json. Orange notes are best-guess bullets to confirm; red notes are rows left out of this draft.",
+  "projects": [
+    {
+      "number": 1,
+      "name": "Community Library Renovation",
+      "project_type": "Renovation / Alteration",
+      "occupancy": "Assembly",
+      "project_brief": "Renovation and reading-room addition to a two-storey public library; this period covered schematic design through the first construction document package.",
+      "categories": [
+        {
+          "number": 3,
+          "name": "Schematic Design",
+          "hours": 7.5,
+          "bullets": [
+            "Participated in the development of preliminary design concepts for the reading room addition and a new entry sequence, testing massing options against the client's program.",
+            "Assisted in the preparation of presentation drawings and a 3D model for the client design review."
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Code Research",
+          "hours": 2.5,
+          "bullets": [
+            "Calculated occupant loads, exit widths and required fire separations for the assembly areas in satisfaction of building code requirements."
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Envelope Detailing",
+          "hours": 3.0,
+          "bullets": [
+            "Worked in the preparation of building envelope details and wall sections, including parapet and flashing details at the new curtain wall."
+          ]
+        },
+        {
+          "number": 8,
+          "name": "Design Development",
+          "hours": 10.5,
+          "bullets": [
+            "Participated in the preparation of detailed design development drawings from the approved schematic design.",
+            {
+              "text": "Assisted in developing the design development set including but not limited to:",
+              "sub_items": [
+                "Floor plans and reflected ceiling plans.",
+                "Interior elevations.",
+                "Room finish schedules."
+              ]
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "name": "Construction Documents",
+          "hours": 13.75,
+          "bullets": [
+            {
+              "text": "Worked on the preparation of construction documents including but not limited to:",
+              "sub_items": [
+                "Floor plans, building sections and wall sections.",
+                "Stair plans, sections and details.",
+                "Door schedules."
+              ]
+            },
+            "Development of technical skills in drafting drawings for accuracy, completeness, clarity, and understanding by others through work in the preparation of detail drawings."
+          ]
+        },
+        {
+          "number": 11,
+          "name": "Document Checking and Coordination",
+          "hours": 2.0,
+          "bullets": [
+            "Checked the structural consultant's drawings against the architectural drawings for possible conflicts at gridlines and slab edges."
+          ]
+        },
+        {
+          "number": 16,
+          "name": "Management of the Project",
+          "hours": 1.25,
+          "bullets": [
+            "Assisted in updating the project work plan and drawing list for the permit milestone."
+          ],
+          "flags": [
+            "Best guess: work-plan update read as Management of the Project rather than Construction Documents — confirm."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Riverside Clinic",
+      "project_type": "New Construction",
+      "occupancy": "Business and Personal Services",
+      "project_brief": "New single-storey outpatient clinic; this period covered programming, site analysis and schematic design.",
+      "categories": [
+        {
+          "number": 1,
+          "name": "Programming",
+          "hours": 2.0,
+          "bullets": [
+            "Participated in a programming conference with the client to confirm exam room counts and departmental adjacencies, and assisted in summarizing the requirements."
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Site and Environmental Analysis",
+          "hours": 3.0,
+          "bullets": [
+            "Researched site restrictions such as setbacks, easements and utility locations from the legal survey."
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Schematic Design",
+          "hours": 5.0,
+          "bullets": [
+            "Participated in the development of preliminary design options for the waiting area and staff entrance to determine the spatial relationships that best satisfy the client's program."
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Engineering Systems Integration",
+          "hours": 2.25,
+          "bullets": [
+            "Reviewed the mechanical and electrical consultants' drawings for space requirements and possible conflicts in the ceiling space."
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Building Cost Analysis",
+          "hours": 1.5,
+          "bullets": [
+            "Calculated areas and prepared a comparative cost analysis of two exterior cladding options."
+          ]
+        },
+        {
+          "number": 10,
+          "name": "Specifications and Material Research",
+          "hours": 2.75,
+          "bullets": [
+            "Researched and evaluated resilient flooring and wall protection products for availability, cost and code acceptability ahead of writing the specifications."
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Lakeview Townhomes",
+      "project_type": "New Construction",
+      "occupancy": "Residential",
+      "project_brief": "Three-storey townhouse development; this period covered tender, contract award and the start of construction.",
+      "categories": [
+        {
+          "number": 12,
+          "name": "Energy Literacy/Sustainability",
+          "hours": 1.5,
+          "bullets": [
+            "Reviewed and entered energy model results for the building permit energy compliance submission."
+          ]
+        },
+        {
+          "number": 13,
+          "name": "Procurement and Contract Award",
+          "hours": 3.0,
+          "bullets": [
+            "Assisted in the analysis and evaluation of bids and prepared an addendum clarifying window specifications."
+          ]
+        },
+        {
+          "number": 14,
+          "name": "Construction Phase – Office",
+          "hours": 6.5,
+          "bullets": [
+            "Assisted in evaluating requests for information and preparing responses.",
+            "Assisted in reviewing window shop drawings and maintaining records.",
+            "Assisted in evaluating a request for change and preparing a site instruction."
+          ]
+        },
+        {
+          "number": 15,
+          "name": "Construction Phase – Site",
+          "hours": 3.5,
+          "bullets": [
+            "Visited the job site to observe window installation and prepared a field report of the review."
+          ]
+        },
+        {
+          "number": 17,
+          "name": "Business/Practice Management",
+          "hours": 1.0,
+          "bullets": [
+            "Participated in preparing a fee proposal for a future phase of work."
+          ]
+        }
+      ]
+    }
+  ],
+  "exclusions": [
+    "\"Community Library Renovation | (no CERB Section) | 1.5 hrs | 'Printed and bound drawing sets.'\" — not on the form because the row has no CERB Section. Categorize it in Airtable (likely 9. Construction Documents) and re-run prepare, or leave it out."
+  ],
+  "flags_summary": "1 flagged bullet, 1 excluded row. Resolve both before the clean pass."
+}

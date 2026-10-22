@@ -1,0 +1,395 @@
+[
+  {
+    "id": "recEXAMPLE0001001",
+    "createdTime": "2027-01-04T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-04",
+      "Hours": 14400,
+      "Description": "4.0 Hr - Community Library Renovation - Massing options for the reading room addition and a new entry sequence.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A3: Schematic Design"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001002",
+    "createdTime": "2027-01-05T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-05",
+      "Hours": 12600,
+      "Description": "3.5 Hr - Community Library Renovation - Prepared presentation plans and a 3D model for the client design review.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A3: Schematic Design"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001003",
+    "createdTime": "2027-01-06T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-06",
+      "Hours": 9000,
+      "Description": "2.5 Hr - Community Library Renovation - Code review: occupant load, exit widths and fire separations for the assembly areas.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A6: Code Research"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001004",
+    "createdTime": "2027-01-07T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-07",
+      "Hours": 7200,
+      "Description": "2.0 Hr - Riverside Clinic - Programming meeting with the client to confirm exam room counts and adjacencies.",
+      "Project (linked)": [
+        "recEXAMPLE0000002"
+      ],
+      "CERB Section": [
+        "A1: Programming"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001005",
+    "createdTime": "2027-01-08T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-08",
+      "Hours": 10800,
+      "Description": "3.0 Hr - Riverside Clinic - Site analysis: setbacks, easements and utility locations from the survey.",
+      "Project (linked)": [
+        "recEXAMPLE0000002"
+      ],
+      "CERB Section": [
+        "A2: Site and Enviromental Analysis"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001006",
+    "createdTime": "2027-01-11T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-11",
+      "Hours": 10800,
+      "Description": "3.0 Hr - Community Library Renovation - Wall sections and parapet flashing details at the new curtain wall.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A7: Envelope Detailing"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001007",
+    "createdTime": "2027-01-12T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-12",
+      "Hours": 21600,
+      "Description": "6.0 Hr - Community Library Renovation - Design development plans and room finish schedule updates.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A8: Design Development"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001008",
+    "createdTime": "2027-01-13T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-13",
+      "Hours": 18000,
+      "Description": "5.0 Hr - Riverside Clinic - Schematic design options for the waiting area and staff entrance.",
+      "Project (linked)": [
+        "recEXAMPLE0000002"
+      ],
+      "CERB Section": [
+        "A3: Schematic Design"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001009",
+    "createdTime": "2027-01-14T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-14",
+      "Hours": 10800,
+      "Description": "3.0 Hr - Lakeview Townhomes - Reviewed bids and prepared addendum 2 clarifying window specifications.",
+      "Project (linked)": [
+        "recEXAMPLE0000003"
+      ],
+      "CERB Section": [
+        "B13: Procurement and Contract Award"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001010",
+    "createdTime": "2027-01-15T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-15",
+      "Hours": 28800,
+      "Description": "8.0 Hr - VACATION",
+      "Project (linked)": [
+        "recEXAMPLE0000004"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001011",
+    "createdTime": "2027-01-18T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-18",
+      "Hours": 16200,
+      "Description": "4.5 Hr - Community Library Renovation - DD set: interior elevations and reflected ceiling plans.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A8: Design Development"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001012",
+    "createdTime": "2027-01-19T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-19",
+      "Hours": 25200,
+      "Description": "7.0 Hr - Community Library Renovation - Construction documents: floor plans, building sections and door schedule.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A9: Construction Documents"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001013",
+    "createdTime": "2027-01-20T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-20",
+      "Hours": 8100,
+      "Description": "2.25 Hr - Riverside Clinic - Coordinated mechanical and electrical drawings for ceiling space conflicts.",
+      "Project (linked)": [
+        "recEXAMPLE0000002"
+      ],
+      "CERB Section": [
+        "A4: Engineering Systems Integration"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001014",
+    "createdTime": "2027-01-21T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-21",
+      "Hours": 16200,
+      "Description": "4.5 Hr - Lakeview Townhomes - Responded to contractor RFIs and reviewed window shop drawings.",
+      "Project (linked)": [
+        "recEXAMPLE0000003"
+      ],
+      "CERB Section": [
+        "B14: Construction Phase - Office"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001015",
+    "createdTime": "2027-01-22T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-22",
+      "Hours": 3600,
+      "Description": "1.0 Hr - ADMIN - Timesheets and expense reports.",
+      "Project (linked)": [
+        "recEXAMPLE0000005"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001016",
+    "createdTime": "2027-01-25T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-01-25",
+      "Hours": 2700,
+      "Description": "0.75 Hr - TEAM MEETING - Weekly studio meeting.",
+      "Project (linked)": [
+        "recEXAMPLE0000006"
+      ],
+      "CERB Section": [
+        "C16: Management of the Project"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001017",
+    "createdTime": "2027-02-01T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-01",
+      "Hours": 24300,
+      "Description": "6.75 Hr - Community Library Renovation - Construction documents: wall sections, stair details and title block updates.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A9: Construction Documents"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001018",
+    "createdTime": "2027-02-02T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-02",
+      "Hours": 7200,
+      "Description": "2.0 Hr - Community Library Renovation - Cross-checked structural drawings against architectural for grid and slab edge conflicts.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "A11: Document Checking and Coordination"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001019",
+    "createdTime": "2027-02-03T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-03",
+      "Hours": 5400,
+      "Description": "1.5 Hr - Riverside Clinic - Area takeoff and comparative cost estimate for two cladding options.",
+      "Project (linked)": [
+        "recEXAMPLE0000002"
+      ],
+      "CERB Section": [
+        "A5: Building Cost Analysis"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001020",
+    "createdTime": "2027-02-08T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-08",
+      "Hours": 4500,
+      "Description": "1.25 Hr - Community Library Renovation - Updated project work plan and drawing list for the permit milestone.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ],
+      "CERB Section": [
+        "C16: Management of the Project"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001021",
+    "createdTime": "2027-02-09T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-09",
+      "Hours": 9900,
+      "Description": "2.75 Hr - Riverside Clinic - Researched resilient flooring and wall protection products for the specifications.",
+      "Project (linked)": [
+        "recEXAMPLE0000002"
+      ],
+      "CERB Section": [
+        "A10: Specifications and Material Research"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001022",
+    "createdTime": "2027-02-10T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-10",
+      "Hours": 12600,
+      "Description": "3.5 Hr - Lakeview Townhomes - Site visit: observed window installation and wrote the field report.",
+      "Project (linked)": [
+        "recEXAMPLE0000003"
+      ],
+      "CERB Section": [
+        "B15: Construction Phase - Site"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001023",
+    "createdTime": "2027-02-15T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-15",
+      "Hours": 7200,
+      "Description": "2.0 Hr - Lakeview Townhomes - Reviewed a change order request and prepared a site instruction.",
+      "Project (linked)": [
+        "recEXAMPLE0000003"
+      ],
+      "CERB Section": [
+        "B14: Construction Phase - Office"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001024",
+    "createdTime": "2027-02-16T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-16",
+      "Hours": 5400,
+      "Description": "1.5 Hr - Lakeview Townhomes - Entered energy model results for the permit energy compliance form.",
+      "Project (linked)": [
+        "recEXAMPLE0000003"
+      ],
+      "CERB Section": [
+        "A12: Energy Literacy / Sustainability"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001025",
+    "createdTime": "2027-02-17T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-17",
+      "Hours": 3600,
+      "Description": "1.0 Hr - Lakeview Townhomes - Helped assemble a fee proposal for a future phase.",
+      "Project (linked)": [
+        "recEXAMPLE0000003"
+      ],
+      "CERB Section": [
+        "C17: Buisness / Practice Management"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001026",
+    "createdTime": "2027-02-18T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-18",
+      "Hours": 5400,
+      "Description": "1.5 Hr - Community Library Renovation - Printed and bound drawing sets.",
+      "Project (linked)": [
+        "recEXAMPLE0000001"
+      ]
+    }
+  },
+  {
+    "id": "recEXAMPLE0001027",
+    "createdTime": "2027-02-19T23:00:00.000Z",
+    "fields": {
+      "Date": "2027-02-19",
+      "Hours": 7200,
+      "Description": "2.0 Hr - TRAINING / EVENT - Lunch-and-learn on low-slope roofing.",
+      "Project (linked)": [
+        "recEXAMPLE0000007"
+      ]
+    }
+  }
+]

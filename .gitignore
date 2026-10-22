@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+
+# Secrets and personal settings -- never commit
+pipeline/.env
+pipeline/settings.json
+pipeline/identification.json
+config/abbreviations.local.md
+
+# Airtable exports and per-period data (personal submission data)
+pipeline/metadata.json
+pipeline/project_metadata.json
+pipeline/raw_records*.json
+pipeline/cerb_input_*.csv
+pipeline/content.json
+pipeline/work/
+exports/
+
+# The official CERB form belongs to the licensing authorities -- download your own (form/README.md)
+form/*.pdf
+
+# Generated documents
+*.docx

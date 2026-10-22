@@ -1,0 +1,35 @@
+{
+  "_comment": "Copy this file to pipeline/settings.json and edit it. Keys starting with '_' are ignored. Every key is documented in pipeline/README.md. Paths are relative to the repository root unless absolute.",
+
+  "_track": "'standard' (3,720-hour IAP) or 'syllabus' (9,800-hour RAIC Syllabus Program). Sets the dashboard targets and the category-balance tie-break in suggest_cerb_sections.py.",
+  "track": "standard",
+
+  "_jurisdiction": "Your provincial/territorial regulator. Used for the reviewer persona and the dashboard subtitle.",
+  "jurisdiction": "Alberta Association of Architects (AAA)",
+
+  "_period": "A CERB period ends at whichever comes first: period_months after the start date, or period_hours_cap eligible hours.",
+  "period_months": 6,
+  "period_hours_cap": 1000,
+
+  "_backlog": "Optional. null = off. When set to YYYY-MM-DD, periods ending BEFORE this date get backlog_text written into Mentor Identification (surname), the 4 Comments by Employer boxes and the Mentor Declaration name. Use only if your jurisdiction accepts retroactive backlog submissions this way.",
+  "backlog_cutoff_date": null,
+  "backlog_text": "N/A BACKLOG HOURS",
+
+  "_internal_bucket_names": "Project Metadata names used for non-project time. They never receive a CERB Section suggestion and are reported separately when excluded.",
+  "internal_bucket_names": ["VACATION", "SICK", "STAT", "ADMIN", "TEAM MEETING", "TRAINING / EVENT"],
+
+  "_thin_project_hours": "When a period has more projects than fit on one page, projects under this many hours are listed as candidates you may choose to leave out (run_period.py prepare --drop-project).",
+  "thin_project_hours": 10,
+
+  "_role_of_intern_header": "First line of the form's page-2 'Role of Intern' field; the per-project synopsis follows it.",
+  "role_of_intern_header": "** Refer to the attached Project Descriptions document for full project details and hours. Synopsis listed below:",
+
+  "_max_projects_per_page": "Project columns per form sheet. The official form has 10; extra projects go on continuation sheets numbered 11, 12, 13...",
+  "max_projects_per_page": 10,
+
+  "_form_pdf": "The official fillable CERB PDF. Not included in this repository - see form/README.md.",
+  "form_pdf": "form/CERB_fillable_form.pdf",
+
+  "_exports_dir": "Where each period's outputs go (exports/<end-date>/) plus the dashboard.",
+  "exports_dir": "exports"
+}
